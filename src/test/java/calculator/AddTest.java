@@ -9,6 +9,6 @@ class AddTest {
 
     @Test
     void add() {
-        assertEquals(2, Add.add(1, 1));
+        assertEquals(3, Add.add(1, 1));
     }
 }
